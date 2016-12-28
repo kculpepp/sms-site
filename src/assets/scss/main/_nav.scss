@@ -1,0 +1,18 @@
+.menu-centered {
+    background-color: #953c38;
+    .menu {
+        background-color: #953c38;
+        padding-top: 18px;
+        padding-bottom: 14px
+        li {
+            padding-right: 75px;
+            a{
+                padding:0px;
+                color:#ffffff;
+            }
+        }
+        .pad-right-remove {
+            padding-right: 0px!important;
+        }
+    }
+}
